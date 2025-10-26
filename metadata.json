@@ -1,0 +1,5 @@
+{
+  "name": "M_1-Gemini Image Studio",
+  "description": "An application to generate images from text prompts using Imagen-4 and analyze uploaded images with Gemini-2.5-Flash.",
+  "requestFramePermissions": []
+}
